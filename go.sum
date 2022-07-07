@@ -204,6 +204,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.15.9 h1:QTPDno4J5TyfpPi3dqCZpD+
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.15.9/go.mod h1:Req/32OLRbXpPX5TxHkwf2Ln9qclJCV6n1S7v0v+FWo=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.47.0 h1:9X0tYDbP/ygvK7QaNKb5oQhqYxujCQJBd+ygL2/qKq4=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.47.0/go.mod h1:M7k8Xgr0AsECwnDcfxXhGyDZ6ozYWLFZwb4ztT46+tI=
+github.com/aws/aws-sdk-go-v2/service/iam v1.18.9 h1:pVHvEz+KIsTwRKufwvGZr90X/YJ7swVshaBZNY4ESIY=
+github.com/aws/aws-sdk-go-v2/service/iam v1.18.9/go.mod h1:ARVuo+lYC2ibYxny/PKC3maaWKLAg25KSq0dkSkE2WE=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.9.2/go.mod h1:RnloUnyZ4KN9JStGY1LuQ7Wzqh7V0f8FinmRdHYtuaA=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.9.3 h1:4n4KCtv5SUoT5Er5XV41huuzrCqepxlW3SDI9qHQebc=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.9.3/go.mod h1:gkb2qADY+OHaGLKNTYxMaQNacfeyQpZ4csDTQMeFmcw=
@@ -888,8 +890,8 @@ github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 h1:SOEGU9fKiNWd/HOJuq
 github.com/lann/builder v0.0.0-20180802200727-47ae307949d0/go.mod h1:dXGbAdH5GtBTC4WfIxhKZfyBF/HBFgRZSWwZ9g/He9o=
 github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 h1:P6pPBnrTSX3DEVR4fDembhRWSsG5rVo6hYhAB/ADZrk=
 github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0/go.mod h1:vmVJ0l/dxyfGW6FmdpVm2joNMFikkuWg0EoCKLGUMNw=
-github.com/liamg/iamgo v0.0.6 h1:VUzOnf39c7QYQfXzOr9upTmIqikmipqu1AvSIoX36PQ=
-github.com/liamg/iamgo v0.0.6/go.mod h1:Kk6ZxBF/GQqG9nnaUjIi6jf+WXNpeOTyhwc6gnguaZQ=
+github.com/liamg/iamgo v0.0.8 h1:m9MSJO+mO4mP6tkMihX98OemEDGBQcewXpuOtpA/EBc=
+github.com/liamg/iamgo v0.0.8/go.mod h1:Kk6ZxBF/GQqG9nnaUjIi6jf+WXNpeOTyhwc6gnguaZQ=
 github.com/liamg/jfather v0.0.7 h1:Xf78zS263yfT+xr2VSo6+kyAy4ROlCacRqJG7s5jt4k=
 github.com/liamg/jfather v0.0.7/go.mod h1:xXBGiBoiZ6tmHhfy5Jzw8sugzajwYdi6VosIpB3/cPM=
 github.com/liamg/memoryfs v1.4.2 h1:6T9Oy1DdWxGCzIY89p0Ykeya5H0uAlzG2xHEGcvo6MU=

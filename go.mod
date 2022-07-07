@@ -11,6 +11,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.15.13
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.8
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.47.0
+	github.com/aws/aws-sdk-go-v2/service/iam v1.18.9
 	github.com/aws/aws-sdk-go-v2/service/rds v1.21.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.11
 	github.com/aws/aws-sdk-go-v2/service/sns v1.17.9
@@ -22,7 +23,7 @@ require (
 	github.com/hashicorp/go-getter v1.6.2
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/hcl/v2 v2.12.0
-	github.com/liamg/iamgo v0.0.6
+	github.com/liamg/iamgo v0.0.8
 	github.com/liamg/jfather v0.0.7
 	github.com/liamg/memoryfs v1.4.2
 	github.com/liamg/tml v0.6.0
